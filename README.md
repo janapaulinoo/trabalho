@@ -9,4 +9,4 @@ CSS
 PHP
 
 ## Autor
-janaina
+janaina (https://github.com/janapaulinoo/trabalho)
